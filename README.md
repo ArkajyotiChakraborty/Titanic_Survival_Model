@@ -9,6 +9,5 @@ In logistic regression we train the model according to a categorical data. Now t
 According this image it's clear whatever categorical input we give it transforms the result into 0 or 1.
 # About the project:
 In this project we worked on the data set of the Titanic model where we configoured that the whether a person based on the certain paramenters will live or not.
-
-#Result:
-Got an accuracy of 77%.
+# Result/Conclusion:
+Got an accuracy of 77% on implementation.
